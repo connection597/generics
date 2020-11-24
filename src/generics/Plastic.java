@@ -1,6 +1,6 @@
 package generics;
 
-public class Plastic {
+public class Plastic extends Material {
 	public void doPrinting() {
 		System.out.println("Plastic재료를 출력합니다");
 	}
